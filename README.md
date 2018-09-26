@@ -1,10 +1,10 @@
 # Rust todo plan
 
-* [ ] Add item to list
+* [x] Add item to list
 * [x] Display list of todo items
-* [ ] Mark item as completed
-* [ ] Undo the mark item as completed
-* [ ] Delete the item from the list
+* [x] Mark item as completed
+* [x] Undo the mark item as completed
+* [x] Delete the item from the list
 
 ## Stretch goals
 
