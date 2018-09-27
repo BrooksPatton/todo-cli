@@ -1,16 +1,21 @@
-# Rust todo plan
+# Making a todo cli in Rust
 
-* [x] Add item to list
-* [x] Display list of todo items
-* [x] Mark item as completed
-* [x] Undo the mark item as completed
-* [x] Delete the item from the list
+* [ ] Install Rust
+* [ ] Create a new project
+* [ ] Hello world
+* [ ] Collect CLI arguments into Vector
+* [ ] Create a way to store user inputs
+  * [ ] Start with list all tasks
+* [ ] Create an empty list
+* [ ] Seed the list with default data
+* [ ] List all tasks
+* [ ] Add a new task
+* [ ] Mark a task as complete
+* [ ] Unmark a task
+* [ ] Remove a task
 
-## Stretch goals
+## Challenge for you
 
-* [ ] Change the item
-* [ ] Customize the order
-
----
-
-There is a possibility of going multiple directions with handling each action. Next will be checking the rust book for how they handled arguments with data.
+* Instead of taking user input from arguments, run a loop and ask the user for their command every iteration.
+* Implement a command for changing the task description
+* Implement a custom sort command
