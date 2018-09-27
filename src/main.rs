@@ -8,7 +8,7 @@ struct TodoItem {
 impl TodoItem {
     fn new(task: String) -> TodoItem {
         TodoItem {
-            task: task,
+            task,
             completed: ' '
         }
     }
@@ -31,7 +31,7 @@ impl TodoList {
         let list = Vec::new();
 
         TodoList {
-            list: list
+            list
         }
     }
 
@@ -42,13 +42,10 @@ impl TodoList {
     }
 
     fn display_tasks(&self) {
-        let mut count = 0;
-
         println!("Displaying all tasks");
 
-        for todo_item in &self.list {
-            println!("{} - [{}] {}", count, todo_item.completed, todo_item.task);
-            count += 1;
+        for (count, item) in self.list.iter().enumerate() {
+            println!("{} - [{}] {}", count, item.completed, item.task);
         }
     }
 
