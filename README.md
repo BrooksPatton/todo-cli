@@ -1,11 +1,11 @@
 # Making a todo cli in Rust
 
-* [ ] Introduction to Rust tutorial
-* [ ] Who am I?
-* [ ] What is Rust
-* [ ] Install Rust
-* [ ] Create a new project
-* [ ] Hello world
+* [x] Introduction to Rust tutorial
+* [x] Who am I?
+* [x] What is Rust
+* [x] Install Rust
+* [x] Create a new project
+* [x] Hello world
 * [ ] Collect CLI arguments into Vector
 * [ ] Create a way to store user inputs
   * [ ] Start with list all tasks
