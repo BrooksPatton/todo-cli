@@ -1,5 +1,8 @@
 # Making a todo cli in Rust
 
+* [ ] Introduction to Rust tutorial
+* [ ] Who am I?
+* [ ] What is Rust
 * [ ] Install Rust
 * [ ] Create a new project
 * [ ] Hello world
@@ -13,6 +16,10 @@
 * [ ] Mark a task as complete
 * [ ] Unmark a task
 * [ ] Remove a task
+* [ ] Build for production
+  * [ ] Linux
+  * [ ] Windows
+  * [ ] Mac
 
 ## Challenge for you
 
