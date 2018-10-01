@@ -6,6 +6,7 @@
 * [x] Install Rust
 * [x] Create a new project
 * [x] Hello world
+* [ ] VS Code extensions
 * [ ] Collect CLI arguments into Vector
 * [ ] Create a way to store user inputs
   * [ ] Start with list all tasks
