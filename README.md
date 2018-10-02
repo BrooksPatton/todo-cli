@@ -6,8 +6,15 @@
 * [x] Install Rust
 * [x] Create a new project
 * [x] Hello world
-* [ ] VS Code extensions
-* [ ] Collect CLI arguments into Vector
+* [x] VS Code extensions
+* [x] Where to find documentation
+* [-] Collect CLI arguments into Vector
+  * [x] `let arguments: Vec<String> = env::args().collect();`
+  * [-] What is happening?
+    * [x] `env::args().collect();`
+    * [ ] Creating variables
+    * [x] Vectors
+    * [ ] Strings
 * [ ] Create a way to store user inputs
   * [ ] Start with list all tasks
 * [ ] Create an empty list
