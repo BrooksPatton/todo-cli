@@ -10,11 +10,11 @@
 * [x] Where to find documentation
 * [-] Collect CLI arguments into Vector
   * [x] `let arguments: Vec<String> = env::args().collect();`
-  * [-] What is happening?
+  * [x] What is happening?
     * [x] `env::args().collect();`
-    * [ ] Creating variables
+    * [x] Creating variables
     * [x] Vectors
-    * [ ] Strings
+    * [x] Strings
 * [ ] Create a way to store user inputs
   * [ ] Start with list all tasks
 * [ ] Create an empty list
