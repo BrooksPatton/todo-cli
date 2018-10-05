@@ -15,8 +15,14 @@
     * [x] Creating variables
     * [x] Vectors
     * [x] Strings
-* [ ] Create a way to store user inputs
-  * [ ] Start with list all tasks
+* [-] Create a way to store user inputs
+  * [x] extract the action to a variable
+  * [x] create a structure to hold the todo item
+  * [x] if the action is 'add'
+  * [x] create the todo item
+  * [x] print out the todo item
+  * [ ] Add a new function to the TodoItem struct
+  * [ ] Add a print to the TodoItem struct
 * [ ] Create an empty list
 * [ ] Seed the list with default data
 * [ ] List all tasks
